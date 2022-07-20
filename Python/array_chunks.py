@@ -8,7 +8,7 @@
 
 def array_chunks(arr,size):
     new_arr=[]
-    lastElement=[]
+    #lastElement=[]
     if len(arr) == size:
         new_arr.append(arr)
     else:
